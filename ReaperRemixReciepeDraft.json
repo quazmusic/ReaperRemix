@@ -26,7 +26,6 @@
         },
          "JSFX": {
             "name": "FX",
-            "default": true,
             "description": "FX including equalizers, compressors, synths, and many more",
             "packages": [
                 "https://github.com/Erriez/erriez-reaper-jsfx/raw/master/index.xml#p=FX/ErriezFX&v=latest",
